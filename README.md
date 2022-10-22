@@ -1,3 +1,7 @@
+GitHub Actions Project
+[![Python Application test with Github Actions](https://github.com/astrawth/pythonscaffold/actions/workflows/main.yml/badge.svg)](https://github.com/astrawth/pythonscaffold/actions/workflows/main.yml)
+
+Testing
 [![Python Application test with Github Actions](https://github.com/astrawth/pythonscaffold/actions/workflows/main.yml/badge.svg)](https://github.com/astrawth/pythonscaffold/actions/workflows/main.yml)
 
 
